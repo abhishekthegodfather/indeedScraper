@@ -1,0 +1,255 @@
+1658147173679	geckodriver	INFO	Listening on 127.0.0.1:59454
+1658147176729	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "59455" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\abhis\\AppData\\Local\\Temp\\rust_mozprofileUsb8va"
+1658147177210	Marionette	INFO	Marionette enabled
+1658147177215	Marionette	INFO	Listening on port 59464
+WebDriver BiDi listening on ws://localhost:59455
+Read port: 59464
+1658147177436	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\abhis\\AppData\\Local\\Temp\\rust_mozprofileUsb8va\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:59455/devtools/browser/f45b62c3-fd22-4928-ac95-d01ecce2f697
+1658147248063	Marionette	INFO	Stopped listening on port 59464
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1658147250150	geckodriver	INFO	Listening on 127.0.0.1:59569
+1658147253265	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "59570" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\abhis\\AppData\\Local\\Temp\\rust_mozprofileM8Sbol"
+1658147253820	Marionette	INFO	Marionette enabled
+1658147253826	Marionette	INFO	Listening on port 59580
+WebDriver BiDi listening on ws://localhost:59570
+Read port: 59580
+1658147254035	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\abhis\\AppData\\Local\\Temp\\rust_mozprofileM8Sbol\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:59570/devtools/browser/7c10f3d3-7929-4304-879c-eb3e02f56288
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://in.indeed.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://in.indeed.com"
+console.error: (new TypeError("currentNode is null", "resource://devtools/client/inspector/shared/style-change-tracker.js", 66))
+TypeError: currentNode is null: canMutationImpactCurrentStyles@resource://devtools/client/inspector/shared/style-change-tracker.js:66:20
+onMutations@resource://devtools/client/inspector/shared/style-change-tracker.js:84:41
+_emit@resource://devtools/shared/event-emitter.js:242:32
+emit@resource://devtools/shared/event-emitter.js:186:18
+emit@resource://devtools/shared/event-emitter.js:330:18
+getMutations@resource://devtools/client/fronts/walker.js:312:10
+
+console.warn: "Async method failed in safeAsyncMethod" (new Error("Can not send request 'hide' because front 'customhighlighter' is already destroyed.", "resource://devtools/shared/protocol/Front/FrontClassWithSpec.js", 28))
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+console.warn: "Failed to add session data entry for frame targets in browsing context" 4294967335
+console.warn: (new AbortError("Actor 'DevToolsFrame' destroyed before query 'DevToolsFrameParent:addSessionDataEntry' was resolved", (void 0)))
+console.warn: "Failed to add session data entry for frame targets in browsing context" 4294967336
+console.warn: (new AbortError("Actor 'DevToolsFrame' destroyed before query 'DevToolsFrameParent:addSessionDataEntry' was resolved", (void 0)))
+console.warn: "Failed to add session data entry for frame targets in browsing context" 4294967337
+console.warn: (new AbortError("Actor 'DevToolsFrame' destroyed before query 'DevToolsFrameParent:addSessionDataEntry' was resolved", (void 0)))
+console.warn: "Failed to add session data entry for frame targets in browsing context" 4294967334
+console.warn: (new AbortError("Actor 'DevToolsFrame' destroyed before query 'DevToolsFrameParent:addSessionDataEntry' was resolved", (void 0)))
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://in.indeed.com"
+console.warn: "Failed to add session data entry for frame targets in browsing context" 4294967342
+console.warn: (new AbortError("Actor 'DevToolsFrame' destroyed before query 'DevToolsFrameParent:addSessionDataEntry' was resolved", (void 0)))
+console.warn: "Failed to add session data entry for frame targets in browsing context" 4294967343
+console.warn: (new AbortError("Actor 'DevToolsFrame' destroyed before query 'DevToolsFrameParent:addSessionDataEntry' was resolved", (void 0)))
+console.warn: "Failed to add session data entry for frame targets in browsing context" 4294967344
+console.warn: (new AbortError("Actor 'DevToolsFrame' destroyed before query 'DevToolsFrameParent:addSessionDataEntry' was resolved", (void 0)))
+console.warn: "Failed to add session data entry for frame targets in browsing context" 4294967341
+console.warn: (new AbortError("Actor 'DevToolsFrame' destroyed before query 'DevToolsFrameParent:addSessionDataEntry' was resolved", (void 0)))
+console.warn: "Failed to add session data entry for frame targets in browsing context" 4294967348
+console.warn: (new AbortError("Actor 'DevToolsFrame' destroyed before query 'DevToolsFrameParent:addSessionDataEntry' was resolved", (void 0)))
+console.warn: "Failed to add session data entry for frame targets in browsing context" 4294967346
+console.warn: (new AbortError("Actor 'DevToolsFrame' destroyed before query 'DevToolsFrameParent:addSessionDataEntry' was resolved", (void 0)))
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1658150837658	Marionette	INFO	Stopped listening on port 59580
+1658150839579	geckodriver	INFO	Listening on 127.0.0.1:54619
+1658150842700	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "54620" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\abhis\\AppData\\Local\\Temp\\rust_mozprofilehXQL0q"
+1658150843253	Marionette	INFO	Marionette enabled
+1658150843259	Marionette	INFO	Listening on port 54629
+WebDriver BiDi listening on ws://localhost:54620
+Read port: 54629
+1658150843530	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\abhis\\AppData\\Local\\Temp\\rust_mozprofilehXQL0q\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:54620/devtools/browser/20dadb22-f5ca-4608-9a5b-437376ef4e01
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://in.indeed.com"
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: uncaught exception: Object
+SourceActor threw an exception: [Exception... "Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]"  nsresult: "0x80470002 (NS_BASE_STREAM_CLOSED)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: onResponse :: line 596"  data: no]
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:596:34
+onStopRequest@resource://gre/modules/NetUtil.jsm:128:18
+Line: 596, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 596: NS_BASE_STREAM_CLOSED: Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]
+SourceActor threw an exception: [Exception... "Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]"  nsresult: "0x80470002 (NS_BASE_STREAM_CLOSED)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: onResponse :: line 596"  data: no]
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:596:34
+onStopRequest@resource://gre/modules/NetUtil.jsm:128:18
+Line: 596, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 596: NS_BASE_STREAM_CLOSED: Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]
+1658153124848	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+console.warn: "Failed to add session data entry for frame targets in browsing context" 4294967305
+console.warn: (new AbortError("Actor 'DevToolsFrame' destroyed before query 'DevToolsFrameParent:addSessionDataEntry' was resolved", (void 0)))
+console.warn: "Failed to add session data entry for frame targets in browsing context" 4294967302
+console.warn: (new AbortError("Actor 'DevToolsFrame' destroyed before query 'DevToolsFrameParent:addSessionDataEntry' was resolved", (void 0)))
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1658154696618	Marionette	INFO	Stopped listening on port 54629
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+[Parent 24116, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1658154698740	geckodriver	INFO	Listening on 127.0.0.1:55129
+1658154701804	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "55130" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\abhis\\AppData\\Local\\Temp\\rust_mozprofileW6PpfW"
+1658154702082	Marionette	INFO	Marionette enabled
+1658154702087	Marionette	INFO	Listening on port 55139
+WebDriver BiDi listening on ws://localhost:55130
+Read port: 55139
+1658154702241	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\abhis\\AppData\\Local\\Temp\\rust_mozprofileW6PpfW\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:55130/devtools/browser/fadb4979-42f1-4314-9109-b7257aa72052
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://in.indeed.com"
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: uncaught exception: Object
+1658154762078	Marionette	INFO	Stopped listening on port 55139
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1658154779690	geckodriver	INFO	Listening on 127.0.0.1:55237
+1658154782761	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "55238" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\abhis\\AppData\\Local\\Temp\\rust_mozprofiler1MYz1"
+1658154783037	Marionette	INFO	Marionette enabled
+1658154783042	Marionette	INFO	Listening on port 55247
+WebDriver BiDi listening on ws://localhost:55238
+Read port: 55247
+1658154783195	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\abhis\\AppData\\Local\\Temp\\rust_mozprofiler1MYz1\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:55238/devtools/browser/9e973b28-08cb-4093-94ab-3926c9beb345
+SourceActor threw an exception: [Exception... "Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]"  nsresult: "0x80470002 (NS_BASE_STREAM_CLOSED)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: onResponse :: line 596"  data: no]
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:596:34
+onStopRequest@resource://gre/modules/NetUtil.jsm:128:18
+Line: 596, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 596: NS_BASE_STREAM_CLOSED: Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://in.indeed.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://in.indeed.com"
+console.error: (new TypeError("currentNode is null", "resource://devtools/client/inspector/shared/style-change-tracker.js", 66))
+TypeError: currentNode is null: canMutationImpactCurrentStyles@resource://devtools/client/inspector/shared/style-change-tracker.js:66:20
+onMutations@resource://devtools/client/inspector/shared/style-change-tracker.js:84:41
+_emit@resource://devtools/shared/event-emitter.js:242:32
+emit@resource://devtools/shared/event-emitter.js:186:18
+emit@resource://devtools/shared/event-emitter.js:330:18
+getMutations@resource://devtools/client/fronts/walker.js:312:10
+
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://in.indeed.com"
+console.error: (new TypeError("currentNode is null", "resource://devtools/client/inspector/shared/style-change-tracker.js", 66))
+TypeError: currentNode is null: canMutationImpactCurrentStyles@resource://devtools/client/inspector/shared/style-change-tracker.js:66:20
+onMutations@resource://devtools/client/inspector/shared/style-change-tracker.js:84:41
+_emit@resource://devtools/shared/event-emitter.js:242:32
+emit@resource://devtools/shared/event-emitter.js:186:18
+emit@resource://devtools/shared/event-emitter.js:330:18
+getMutations@resource://devtools/client/fronts/walker.js:312:10
+
+console.error: "Unable to find target with innerWindowId:4294967299"
+console.error: "Unable to find target with innerWindowId:4294967299"
+console.warn: ({})
+console.error: "Unable to find target with innerWindowId:4294967301"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://in.indeed.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://in.indeed.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://in.indeed.com"
+console.error: "Unable to find target with innerWindowId:4294967304"
+console.error: "Unable to find target with innerWindowId:4294967306"
+console.error: "Unable to find target with innerWindowId:4294967306"
+console.error: "Unable to find target with innerWindowId:4294967306"
+console.error: "Unable to find target with innerWindowId:4294967307"
+console.error: "Unable to find target with innerWindowId:4294967308"
+console.error: "Unable to find target with innerWindowId:4294967308"
+console.error: "Unable to find target with innerWindowId:4294967309"
+console.error: "Unable to find target with innerWindowId:4294967309"
+console.error: "Unable to find target with innerWindowId:4294967310"
+console.error: "Unable to find target with innerWindowId:4294967311"
+console.error: "Unable to find target with innerWindowId:4294967312"
+console.error: "Unable to find target with innerWindowId:4294967312"
+1658158566169	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: https://in.indeed.com/cmp/-/s/14e8845a9c05f417/vendor.js, line 2: Error: Request aborted
+console.error: (new Error("Connection closed, pending request to server0.conn0.windowGlobal4294967313/domnode56, type getUniqueSelector failed\n\nRequest stack:\nrequest@resource://devtools/shared/protocol/Front.js:292:14\ngenerateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:46:19\ngetNodeFrontSelectorsFromTopDocument@resource://devtools/shared/commands/inspector/inspector-command.js:325:42\nupdateSelectionCssSelectors@resource://devtools/client/inspector/inspector.js:1491:8\nonNewSelection@resource://devtools/client/inspector/inspector.js:1565:10\n_emit@resource://devtools/shared/event-emitter.js:242:32\nemit@resource://devtools/shared/event-emitter.js:186:18\nemit@resource://devtools/shared/event-emitter.js:330:18\nsetNodeFront@resource://devtools/client/framework/selection.js:206:10\nonRootNodeAvailable@resource://devtools/client/inspector/inspector.js:368:22\n", "resource://devtools/shared/protocol/Front.js", 106))
+console.error: (new Error("Connection closed, pending request to server0.conn0.windowGlobal4294967313/pagestyle47, type getLayout failed\n\nRequest stack:\nrequest@resource://devtools/shared/protocol/Front.js:292:14\ngenerateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:46:19\nupdateBoxModel/lastRequest<@resource://devtools/client/inspector/boxmodel/box-model.js:183:36\nupdateBoxModel@resource://devtools/client/inspector/boxmodel/box-model.js:223:18\nonNewSelection@resource://devtools/client/inspector/boxmodel/box-model.js:288:10\n_emit@resource://devtools/shared/event-emitter.js:242:32\nemit@resource://devtools/shared/event-emitter.js:186:18\nemit@resource://devtools/shared/event-emitter.js:330:18\nsetNodeFront@resource://devtools/client/framework/selection.js:206:10\nonRootNodeAvailable@resource://devtools/client/inspector/inspector.js:368:22\n", "resource://devtools/shared/protocol/Front.js", 106))
+console.error: (new Error("Connection closed, pending request to server0.conn0.windowGlobal4294967313/pagestyle47, type getApplied failed\n\nRequest stack:\nrequest@resource://devtools/shared/protocol/Front.js:292:14\ngenerateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:46:19\ngetApplied@resource://devtools/client/fronts/page-style.js:59:29\npopulate@resource://devtools/client/inspector/rules/models/element-style.js:124:8\n_populate@resource://devtools/client/inspector/rules/rules.js:1119:8\nselectElement/<@resource://devtools/client/inspector/rules/rules.js:1012:23\n", "resource://devtools/shared/protocol/Front.js", 106))
+console.error: (new Error("Connection closed, pending request to server0.conn0.windowGlobal4294967313/domwalker46, type children failed\n\nRequest stack:\nrequest@resource://devtools/shared/protocol/Front.js:292:14\ngenerateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:46:19\nchildren@resource://devtools/client/fronts/walker.js:339:20\n_getVisibleChildren@resource://devtools/client/inspector/markup/markup.js:2323:34\n", "resource://devtools/shared/protocol/Front.js", 106))
+console.error: (new Error("Connection closed, pending request to server0.conn0.windowGlobal4294967313/domwalker46, type children failed\n\nRequest stack:\nrequest@resource://devtools/shared/protocol/Front.js:292:14\ngenerateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:46:19\nchildren@resource://devtools/client/fronts/walker.js:339:20\n_getVisibleChildren@resource://devtools/client/inspector/markup/markup.js:2323:34\n", "resource://devtools/shared/protocol/Front.js", 106))
+console.error: (new Error("Connection closed, pending request to server0.conn0.windowGlobal4294967313/domwalker46, type children failed\n\nRequest stack:\nrequest@resource://devtools/shared/protocol/Front.js:292:14\ngenerateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:46:19\nchildren@resource://devtools/client/fronts/walker.js:339:20\n_getVisibleChildren@resource://devtools/client/inspector/markup/markup.js:2323:34\n", "resource://devtools/shared/protocol/Front.js", 106))
+console.error: (new Error("Connection closed, pending request to server0.conn0.windowGlobal4294967313/pagestyle47, type getApplied failed\n\nRequest stack:\nrequest@resource://devtools/shared/protocol/Front.js:292:14\ngenerateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:46:19\ngetApplied@resource://devtools/client/fronts/page-style.js:59:29\npopulate@resource://devtools/client/inspector/rules/models/element-style.js:124:8\n_populate@resource://devtools/client/inspector/rules/rules.js:1119:8\nselectElement/<@resource://devtools/client/inspector/rules/rules.js:1012:23\n", "resource://devtools/shared/protocol/Front.js", 106))
+console.error: (new Error("Can not send request 'supportsHighlighters' because front 'inspector' is already destroyed.", "resource://devtools/shared/protocol/Front/FrontClassWithSpec.js", 28))
+console.error: (new Error("Connection closed, pending request to server0.conn0.windowGlobal4294967313/pagestyle47, type getApplied failed\n\nRequest stack:\nrequest@resource://devtools/shared/protocol/Front.js:292:14\ngenerateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:46:19\ngetApplied@resource://devtools/client/fronts/page-style.js:59:29\npopulate@resource://devtools/client/inspector/rules/models/element-style.js:124:8\n_populate@resource://devtools/client/inspector/rules/rules.js:1119:8\nselectElement/<@resource://devtools/client/inspector/rules/rules.js:1012:23\n", "resource://devtools/shared/protocol/Front.js", 106))
+console.warn: "Error while destroying front:" "accessibility" (new Error("Connection closed, pending request to server0.conn0.windowGlobal4294967313/accessibilityActor13, type bootstrap failed\n\nRequest stack:\nrequest@resource://devtools/shared/protocol/Front.js:292:14\ngenerateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:46:19\ninitialize@resource://devtools/client/fronts/accessibility.js:538:37\n", "resource://devtools/shared/protocol/Front.js", 106))
+console.error: "Unable to find target with innerWindowId:4294967313"
+console.error: "Unable to find target with innerWindowId:4294967313"
+console.error: "Unable to find target with innerWindowId:4294967313"
+console.error: "Unable to find target with innerWindowId:4294967313"
+console.error: "Unable to find target with innerWindowId:4294967313"
+console.error: "Unable to find target with innerWindowId:4294967313"
+console.error: "Unable to find target with innerWindowId:4294967313"
+console.error: "Unable to find target with innerWindowId:4294967313"
+console.error: "Unable to find target with innerWindowId:4294967313"
+console.error: "Unable to find target with innerWindowId:4294967313"
+console.error: "Unable to find target with innerWindowId:4294967313"
+JavaScript error: resource://devtools/shared/protocol/Front.js, line 106: Error: Connection closed, pending request to server0.conn0.windowGlobal4294967313/accessibilityActor13, type bootstrap failed
+
+Request stack:
+request@resource://devtools/shared/protocol/Front.js:292:14
+generateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:46:19
+initialize@resource://devtools/client/fronts/accessibility.js:538:37
+
+console.error: "stylesheets: fetch failed for https://d3hbwax96mbv6t.cloudfront.net/cmp/_s/s/b995f01/base.css, using system principal instead."
+console.error: "stylesheets: fetch failed for https://d3hbwax96mbv6t.cloudfront.net/cmp/_s/s/b995f01/base.css, using system principal instead."
+console.error: (new TypeError("currentNode is null", "resource://devtools/client/inspector/shared/style-change-tracker.js", 66))
+TypeError: currentNode is null: canMutationImpactCurrentStyles@resource://devtools/client/inspector/shared/style-change-tracker.js:66:20
+onMutations@resource://devtools/client/inspector/shared/style-change-tracker.js:84:41
+_emit@resource://devtools/shared/event-emitter.js:242:32
+emit@resource://devtools/shared/event-emitter.js:186:18
+emit@resource://devtools/shared/event-emitter.js:330:18
+getMutations@resource://devtools/client/fronts/walker.js:312:10
+
+console.error: (new Error("Connection closed, pending request to server0.conn0.windowGlobal4294967314/pagestyle45, type getApplied failed\n\nRequest stack:\nrequest@resource://devtools/shared/protocol/Front.js:292:14\ngenerateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:46:19\ngetApplied@resource://devtools/client/fronts/page-style.js:59:29\nupdateBoxModel/lastRequest<@resource://devtools/client/inspector/boxmodel/box-model.js:187:44\n", "resource://devtools/shared/protocol/Front.js", 106))
+console.error: "Tried to send a 'getApplied' method reply on an already destroyed actor 'pagestyle'"
+console.error: "Tried to send a 'getApplied' method reply on an already destroyed actor 'pagestyle'"
+JavaScript error: resource:///modules/FaviconLoader.jsm, line 598: InvalidStateError: JSWindowActorChild.sendAsyncMessage: JSWindowActorChild cannot send at the moment
+console.error: "Unable to find target with innerWindowId:4294967316"
+console.error: "Unable to find target with innerWindowId:4294967317"
+console.error: "Unable to find target with innerWindowId:4294967317"
+console.error: "Unable to find target with innerWindowId:4294967318"
+console.error: "Unable to find target with innerWindowId:4294967318"
+console.error: "Unable to find target with innerWindowId:4294967319"
+console.error: "Unable to find target with innerWindowId:4294967319"
+console.error: "Unable to find target with innerWindowId:4294967320"
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1658158829270	Marionette	INFO	Stopped listening on port 55247
+1658158835479	geckodriver	INFO	Listening on 127.0.0.1:55660
+1658158838537	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "55661" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\abhis\\AppData\\Local\\Temp\\rust_mozprofileAhDaYe"
+1658158838894	Marionette	INFO	Marionette enabled
+1658158838898	Marionette	INFO	Listening on port 55670
+WebDriver BiDi listening on ws://localhost:55661
+Read port: 55670
+1658158839073	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\abhis\\AppData\\Local\\Temp\\rust_mozprofileAhDaYe\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:55661/devtools/browser/b19c3a42-310a-45bf-b013-1d551ad15608
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://in.indeed.com"
+1658159712272	geckodriver	INFO	Listening on 127.0.0.1:55889
+1658159715379	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "55890" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\abhis\\AppData\\Local\\Temp\\rust_mozprofileF3IqtM"
+1658159715851	Marionette	INFO	Marionette enabled
+1658159715862	Marionette	INFO	Listening on port 55899
+WebDriver BiDi listening on ws://localhost:55890
+Read port: 55899
+1658159716085	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\abhis\\AppData\\Local\\Temp\\rust_mozprofileF3IqtM\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:55890/devtools/browser/d646e5f5-c1ef-436b-b95a-d9e14d5a3337
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://in.indeed.com"
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1658159776394	Marionette	INFO	Stopped listening on port 55899
+1658159819149	geckodriver	INFO	Listening on 127.0.0.1:55988
+1658159822255	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "55989" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\abhis\\AppData\\Local\\Temp\\rust_mozprofilegvt6TN"
+1658159822809	Marionette	INFO	Marionette enabled
+1658159822814	Marionette	INFO	Listening on port 55998
+WebDriver BiDi listening on ws://localhost:55989
+Read port: 55998
+1658159823115	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\abhis\\AppData\\Local\\Temp\\rust_mozprofilegvt6TN\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:55989/devtools/browser/a6bbe606-ee69-4857-a943-ba434d09116f
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://in.indeed.com"
+1658159852858	Marionette	INFO	Stopped listening on port 55998
